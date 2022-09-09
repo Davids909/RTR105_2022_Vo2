@@ -2,7 +2,10 @@
 Datormāciba
 Formatēšanas piem.
 
-## Formatēšana\
+## Formatēšana
+
+
  
- `#Red` Manā rīta kafijā...
+ Manā rīta kafijā...
+
 ![This is image](https://img2.spoki.lv/upload2/articles/77/771918/images/mana-rita-kafija-1.jpg)
